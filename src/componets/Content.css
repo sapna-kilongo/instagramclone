@@ -1,0 +1,211 @@
+.Content{
+ display: flex;
+ justify-content:space-evenly;
+ position: relative;
+}
+
+.full_card{
+    margin-top: 70px ;
+    margin-left: 70px;
+    width: 550px;
+    border: 1px solid grey;  
+}
+
+.topCard{
+height: 50px;
+border: 1px solid grey;  
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.userpost{
+width: 35px;
+height: 35px;
+border-radius: 50%;
+display: flex;
+justify-content: space-between;
+margin-left: 10px;
+margin-right: 20px;
+align-items: center;
+border: 2px solid red;
+
+}
+
+.userpost img{
+    object-fit: fill;
+    width: 34px;
+    height: 34px;
+    
+    border-radius: 50%;
+
+}
+.userpost p{
+    margin-left: 10px;
+}
+
+
+
+.dottpst{
+
+    margin-right: 50px;
+}
+.middleCard{
+height: 500px;
+
+}
+.middleCard img{
+object-fit: fill;
+width: 550px;
+height: 500px;
+
+}
+
+.bottomtop{
+display: flex;
+justify-content: space-between;
+margin-left: 10px;
+margin-right: 10px;
+
+}
+
+.bottomtop1{
+display: flex;
+align-items: center;
+padding: 10px;
+
+}
+.botto5{
+ margin-right: 10px;
+
+}
+.bottombottom{
+ display: flex;
+ border: 1px solid grey;
+ height: 50px;
+ align-items: center;
+ justify-content: space-between;
+ padding-right: 10px;
+
+}
+.imogi{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.imogi textarea{
+ width: 450px;
+ height: 40px;
+ align-items: center;
+ vertical-align: middle;
+ border: 1px solid white ;
+}
+
+.rightContent{
+ width: 300px;
+ height: 300px;
+ margin-left: -100px;
+ display: flex;
+ flex-direction: column;
+ 
+
+
+}
+
+.containerrighttop{
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.fitlogo{
+width: 50px;
+height: 50px;
+border: 1px solid grey;
+border-radius: 50%;
+
+}
+
+.fitlogo img{
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+
+.fittext{
+    margin-left: -50px;
+}
+
+.fittext h4{
+    line-height: -0.00%;
+
+}
+.fittext p{
+    line-height: -0.00%; 
+   }
+
+.fitbtn a{
+text-decoration: none;
+color: blue;
+margin-right: 3px;
+}
+
+
+ .containermiddletop{
+ display: flex;
+ justify-content: space-between;
+ margin-right: 3px;
+   }
+
+.containerbottomtop{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+
+.suggeston{
+  width: 30px;
+  height: 30px;
+  border: 1px solid grey;
+  border-radius: 50%;
+
+  
+}
+.suggeston img{
+    object-fit: contain;
+    width: 30px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 50%;
+}
+.suggestionfi{
+    margin-left: -130px;
+}
+
+.suggestionfi h4{
+    line-height: -0.00%;
+
+}
+.suggestionfi p{
+    line-height: -0.00%; 
+   }
+   
+
+.suggestio{
+
+    margin-right: 3px;
+}
+.suggestio h5{
+
+    color: blue;
+}
+ 
